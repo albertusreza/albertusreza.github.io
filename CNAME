@@ -1,4 +1,1 @@
-type: CNAME
-host: www.albert.id
-answer: albertusreza.github.io
-TTL: 300
+albert.id
