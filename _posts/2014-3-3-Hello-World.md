@@ -2,6 +2,18 @@
 layout: post
 title: You're up and running!
 ---
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+* 1
+* 2
+* 3
+
+- 1
+- 2
+
++ 1
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
